@@ -10,7 +10,7 @@ These can be installed using pip
 
 # How To Use The Notebook
 
-Make sure to update the file_path variable in the notebook to point to the NetCDF or HDF5 file you want to process. For example:
+Make sure to update the file_path variable in the notebook to point to the .nc file you want to process. For example:
 
 ```
 file_path = 'P5023_magnetic_gradient_reduced.nc'
